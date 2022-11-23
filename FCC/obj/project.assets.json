@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dkurz\\source\\repos\\FCC\\FCC\\FCC.csproj",
+      "projectUniqueName": "C:\\Users\\dkurz\\Documents\\GitHub\\FCCVandalia\\FCC\\FCC.csproj",
       "projectName": "FCC",
-      "projectPath": "C:\\Users\\dkurz\\source\\repos\\FCC\\FCC\\FCC.csproj",
+      "projectPath": "C:\\Users\\dkurz\\Documents\\GitHub\\FCCVandalia\\FCC\\FCC.csproj",
       "packagesPath": "C:\\Users\\dkurz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dkurz\\source\\repos\\FCC\\FCC\\obj\\",
+      "outputPath": "C:\\Users\\dkurz\\Documents\\GitHub\\FCCVandalia\\FCC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dkurz\\AppData\\Roaming\\NuGet\\NuGet.Config",

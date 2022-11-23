@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FCC
 build_property.RootNamespace = FCC
-build_property.ProjectDir = C:\Users\dkurz\source\repos\FCC\FCC\
+build_property.ProjectDir = C:\Users\dkurz\Documents\GitHub\FCCVandalia\FCC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\dkurz\source\repos\FCC\FCC
+build_property.MSBuildProjectDirectory = C:\Users\dkurz\Documents\GitHub\FCCVandalia\FCC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/dkurz/source/repos/FCC/FCC/App.razor]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dkurz/source/repos/FCC/FCC/Pages/Counter.razor]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dkurz/source/repos/FCC/FCC/Pages/FetchData.razor]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dkurz/source/repos/FCC/FCC/Pages/Index.razor]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dkurz/source/repos/FCC/FCC/Shared/SurveyPrompt.razor]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dkurz/source/repos/FCC/FCC/_Imports.razor]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dkurz/source/repos/FCC/FCC/Shared/MainLayout.razor]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-uk81n9uox7
 
-[C:/Users/dkurz/source/repos/FCC/FCC/Shared/NavMenu.razor]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-2zcjvao2ve
 
-[C:/Users/dkurz/source/repos/FCC/FCC/Pages/Error.cshtml]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dkurz/source/repos/FCC/FCC/Pages/_Host.cshtml]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dkurz/source/repos/FCC/FCC/Pages/_Layout.cshtml]
+[C:/Users/dkurz/Documents/GitHub/FCCVandalia/FCC/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
